@@ -13,16 +13,6 @@ Developer in Shanghai. Backend work in Go and Python for years (Kubernetes, gRPC
 | [**chuhe-hanjie**](https://github.com/ahjdzx/chuhe-hanjie) | 楚河汉界：漆木桌上的 3D 中国象棋，两支玩具军队自己对弈，带自动导播镜头，可随时接管一方。[打开](https://ahjdzx.github.io/chuhe-hanjie/) |
 | [**anatomy-figures**](https://github.com/ahjdzx/anatomy-figures) | 用一台"真实的机器"讲一个技术概念：可交互的等轴测 SVG（令牌桶限流、投机解码……）。 |
 
-#### Earlier · 早些时候
-
-[trie](https://github.com/ahjdzx/trie) (Go trie module) ·
-[leetcode](https://github.com/ahjdzx/leetcode) ·
-[algorithm](https://github.com/ahjdzx/algorithm) (算法与数据结构笔记) ·
-[design_pattern](https://github.com/ahjdzx/design_pattern) ·
-[admission-hpa](https://github.com/ahjdzx/admission-hpa) (Kubernetes admission webhook) ·
-[grpc_pool](https://github.com/ahjdzx/grpc_pool) ·
-[dotfiles](https://github.com/ahjdzx/dotfiles)
-
 #### Tools · 常用
 
 Rust · Go · Python · TypeScript · Kubernetes · Docker · macOS
